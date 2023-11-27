@@ -2504,7 +2504,7 @@
         {
           "id": "mod-anvillib",
           "file": {
-            "link": "https://maven.tilera.xyz/net/anvilcraft/anvillib-18-forge/0.2.1/anvillib-18-forge-0.2.1.jar",
+            "link": "https://maven.tilera.xyz/net/anvilcraft/anvillib-18-forge/1.1.0/anvillib-18-forge-1.1.0.jar",
             "installer": "internal.dir:mods"
           },
           "type": "mod",
@@ -2518,7 +2518,7 @@
         {
           "id": "mod-wildbackport",
           "file": {
-            "link": "https://maven.tilera.xyz/com/cursedcauldron/wildbackport-forge/2.0.0/wildbackport-forge-2.0.0.jar",
+            "link": "https://maven.tilera.xyz/com/cursedcauldron/wildbackport-forge/2.1.0/wildbackport-forge-2.1.0.jar",
             "installer": "internal.dir:mods"
           },
           "type": "mod",
