@@ -1,9 +1,9 @@
 {
-  "id": "notex-4",
+  "id": "notex",
   "type": "modpack",
   "versions": [
     {
-      "version": "1.0.0",
+      "version": "4.0.0",
       "versionid": -1,
       "mcversion": [
         "1.18.2"
@@ -1281,21 +1281,6 @@
           "file": {
             "installer": "internal.dir:mods",
             "artifact": "curse.maven:610632:4489732",
-            "repository": "curse"
-          },
-          "type": "mod",
-          "options": [
-            "required",
-            "client",
-            "server",
-            "included"
-          ]
-        },
-        {
-          "id": "823046",
-          "file": {
-            "installer": "internal.dir:mods",
-            "artifact": "curse.maven:823046:4613500",
             "repository": "curse"
           },
           "type": "mod",
