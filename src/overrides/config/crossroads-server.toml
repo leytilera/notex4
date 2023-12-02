@@ -8,9 +8,9 @@
 	#Removing a default gear material is not recommended
 	gear_types = ["copper FF783C 9000", "tin F0F0F0 7300", "iron A0A0A0 8000", "gold FFFF00 20000", "bronze FFA03C 8800", "copshowium FF8200 0"]
 	#Generate Tin Ore?
-	tin = false
+	tin = false # NTX4
 	#Generate Ruby Ore?
-	ruby = false
+	ruby = false # NTX4
 	#Metal ore types that Crossroads should generate tripling items for
 	#Specify the metal then a space then a hexadecimal color, ex. "copper FF4800"
 	#Doesn't register a molten fluid, recipes, or localization

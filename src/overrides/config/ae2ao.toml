@@ -15,8 +15,9 @@ DisableChannels = false
 	#If is false, possible structure with cross pattern, i.e. two neighbors on two or three axes.
 	ControllerCross = false
 	#If is true, possible connect to one me net multiple controller structure.
-	MultipleControllers = true
+	MultipleControllers = true # NTX4
 
+    # NTX4
 	[Controllers.ControllerSizeLimits]
 		Max_X = 11
 		Max_Y = 11

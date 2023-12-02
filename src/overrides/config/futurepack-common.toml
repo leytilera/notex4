@@ -73,25 +73,25 @@
 [world_generation]
 	#Quantity of Bedrock Rifts
 	#Range: 0 ~ 25
-	bedrock_rift = 0
+	bedrock_rift = 0 # NTX4: This causes crashes during world gen.
 	#Heigth for Bedrockrift: Should be equal to flat bedrock heigth (if used)
 	#Range: -64 ~ 255
 	bedrock_rift_height = -63
 	#Chance of a huge Tecdungeon to spawn in a chunk
 	#Range: 0.0 ~ 0.1
-	huge_dungeon_spawnrate = 0.0
+	huge_dungeon_spawnrate = 0.0 # NTX4
 	#Distance in Chunks ( so *16 for block coords) around the spawn were no huge dungeons will spawn.
 	#Range: > 0
-	huge_dungeon_mindis = 0
+	huge_dungeon_mindis = 0 # NTX4
 	#Chance of a normal Tecdungeon to spawn in a chunk
 	#Range: 0.0 ~ 0.2
-	tec_dungeon_spawnrate = 0.0
+	tec_dungeon_spawnrate = 0.0 # NTX4
 	#Distance in Chunks ( so *16 for block coords) around the spawn were no tec dungeons will spawn.
 	#Range: > 0
-	tec_dungeon_mindis = 0
+	tec_dungeon_mindis = 0 # NTX4
 	#The amount erse generation  loops per chunk. If greater then one it will run mutliple times, smaler then one will result in percentage per chunk. Keep in mind erse will only spawn if there is the tall grass ( not the grass block, not the 2-block tall grass)
 	#Range: 0.0 ~ 100.0
-	erse_count = 0.0
+	erse_count = 20.0
 	#A whitelist for enabling huge dungeon spawn in other dimensions.
 	wl_huge_dungeons = ["minecraft:overworld"]
 	#A blacklist to stop tec dungeon spawn in biomes.
@@ -100,13 +100,13 @@
 	[world_generation.ores]
 		#Quantity of Copper Ore
 		#Range: 0 ~ 25
-		copper_ore = 0
+		copper_ore = 0 # NTX4
 		#Quantity of Tin Ore
 		#Range: 0 ~ 25
-		tin_ore = 0
+		tin_ore = 0 # NTX4
 		#Quantity of Zinc Ore
 		#Range: 0 ~ 25
-		zinz_ore = 0
+		zinz_ore = 0 # NTX4
 		#Quantity of Bauxite Ore
 		#Range: 0 ~ 25
 		bauxite_ore = 7
