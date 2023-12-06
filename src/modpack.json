@@ -2042,21 +2042,6 @@
           ]
         },
         {
-          "id": "231095",
-          "file": {
-            "installer": "internal.dir:mods",
-            "artifact": "curse.maven:231095:4119191",
-            "repository": "curse"
-          },
-          "type": "mod",
-          "options": [
-            "required",
-            "client",
-            "server",
-            "included"
-          ]
-        },
-        {
           "id": "406959",
           "file": {
             "installer": "internal.dir:mods",
@@ -2419,8 +2404,9 @@
         {
           "id": "mod-create",
           "file": {
-            "link": "https://maven.tilera.xyz/com/simibubi/create/create-1.18.2/0.5.1.c/create-1.18.2-0.5.1.c-all.jar",
-            "installer": "internal.dir:mods"
+            "installer": "internal.dir:mods",
+            "artifact": "curse.maven:328085:4835188",
+            "repository": "curse"
           },
           "type": "mod",
           "options": [
@@ -2433,7 +2419,7 @@
         {
           "id": "mod-steampowered",
           "file": {
-            "link": "https://maven.tilera.xyz/com/teammoeg/steampowered/1.18.2-2.0.4-alpha/steampowered-1.18.2-2.0.4-alpha.jar",
+            "link": "https://maven.tilera.xyz/com/teammoeg/steampowered/1.18.2-3.0.0+create-0.5.1/steampowered-1.18.2-3.0.0+create-0.5.1.jar",
             "installer": "internal.dir:mods"
           },
           "type": "mod",
@@ -2504,6 +2490,20 @@
           "id": "mod-wildbackport",
           "file": {
             "link": "https://maven.tilera.xyz/com/cursedcauldron/wildbackport-forge/2.1.0/wildbackport-forge-2.1.0.jar",
+            "installer": "internal.dir:mods"
+          },
+          "type": "mod",
+          "options": [
+            "server",
+            "client",
+            "required",
+            "included"
+          ]
+        },
+        {
+          "id": "mod-ntx4core",
+          "file": {
+            "link": "https://maven.tilera.xyz/net/anvilcraft/ntx4core/ntx4core/1.0.0/ntx4core-1.0.0.jar",
             "installer": "internal.dir:mods"
           },
           "type": "mod",
