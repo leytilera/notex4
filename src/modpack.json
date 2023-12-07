@@ -797,21 +797,6 @@
           ]
         },
         {
-          "id": "569849",
-          "file": {
-            "installer": "internal.dir:mods",
-            "artifact": "curse.maven:569849:4074347",
-            "repository": "curse"
-          },
-          "type": "mod",
-          "options": [
-            "required",
-            "client",
-            "server",
-            "included"
-          ]
-        },
-        {
           "id": "426386",
           "file": {
             "installer": "internal.dir:mods",
@@ -2490,6 +2475,20 @@
           "id": "mod-wildbackport",
           "file": {
             "link": "https://maven.tilera.xyz/com/cursedcauldron/wildbackport-forge/2.1.0/wildbackport-forge-2.1.0.jar",
+            "installer": "internal.dir:mods"
+          },
+          "type": "mod",
+          "options": [
+            "server",
+            "client",
+            "required",
+            "included"
+          ]
+        },
+        {
+          "id": "mod-hexcasting",
+          "file": {
+            "link": "https://s3.tilera.xyz/cdn/minecraft/mods/hexcasting/hexcasting-forge-1.18.2-0.9.6.jar",
             "installer": "internal.dir:mods"
           },
           "type": "mod",
