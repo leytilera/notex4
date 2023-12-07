@@ -2502,7 +2502,7 @@
         {
           "id": "mod-ntx4core",
           "file": {
-            "link": "https://maven.tilera.xyz/net/anvilcraft/ntx4core/ntx4core/1.0.0/ntx4core-1.0.0.jar",
+            "link": "https://maven.tilera.xyz/net/anvilcraft/ntx4core/ntx4core/1.1.0/ntx4core-1.1.0.jar",
             "installer": "internal.dir:mods"
           },
           "type": "mod",
