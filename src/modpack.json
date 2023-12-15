@@ -2402,6 +2402,21 @@
           ]
         },
         {
+          "id": "mod-fastleafdecay",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse.maven:230976:3693140",
+            "repository": "curse"
+          },
+          "type": "mod",
+          "options": [
+            "server",
+            "client",
+            "required",
+            "included"
+          ]
+        },
+        {
           "id": "mod-steampowered",
           "file": {
             "link": "https://maven.tilera.xyz/com/teammoeg/steampowered/1.18.2-3.0.0+create-0.5.1/steampowered-1.18.2-3.0.0+create-0.5.1.jar",
