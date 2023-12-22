@@ -1,7 +1,6 @@
-# 4.1.0
+# 4.2.0
 
-- Added Gravestones
-- Added FastLeafDecay
-- Added Polymorph
-- Updated Ntx4Core
-- Enabled compatibilityRenderMode
+- Added Hexal
+- Enabled Tempad energy usage
+- Changed Antimatter progression line
+- Fixed DeepMobLearning loot tables
