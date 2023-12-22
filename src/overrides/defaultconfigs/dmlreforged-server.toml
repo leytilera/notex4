@@ -25,6 +25,7 @@
 	tier3 = 24
 	#Range: 1 ~ 100
 	tier4 = 42
+	#NTX4
 	isGlitchArmorCreativeFlightEnabled = false
 	isGlitchArmorExtraDropsEnabled = true
 	#Not advised to make false. Datapack for diffrent recipes must be written in order for mod to work correctly
