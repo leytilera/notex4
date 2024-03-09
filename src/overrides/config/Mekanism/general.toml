@@ -192,5 +192,5 @@
 		inputPerAntimatter = 250
 		#Energy needed to process 1 mB of input (inputPerAntimatter * energyPerInput = energy to produce 1 mB of antimatter).
 		#NTX4
-		energyPerInput = "1000"
+		energyPerInput = "1000000"
 
