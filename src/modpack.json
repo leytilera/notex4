@@ -35,7 +35,7 @@
           "id": "231382",
           "file": {
             "installer": "internal.dir:mods",
-            "artifact": "curse.maven:231382:4426917",
+            "artifact": "curse.maven:231382:4790968",
             "repository": "curse"
           },
           "type": "mod",
@@ -335,7 +335,7 @@
           "id": "223565",
           "file": {
             "installer": "internal.dir:mods",
-            "artifact": "curse.maven:223565:4418000",
+            "artifact": "curse.maven:223565:4953547",
             "repository": "curse"
           },
           "type": "mod",
@@ -1565,7 +1565,7 @@
           "id": "226410",
           "file": {
             "installer": "internal.dir:mods",
-            "artifact": "curse.maven:226410:3722831",
+            "artifact": "curse.maven:226410:4860857",
             "repository": "curse"
           },
           "type": "mod",
@@ -2577,7 +2577,7 @@
         {
           "id": "mod-ntx4core",
           "file": {
-            "link": "https://maven.tilera.xyz/net/anvilcraft/ntx4core/ntx4core/1.3.0/ntx4core-1.3.0.jar",
+            "link": "https://maven.tilera.xyz/net/anvilcraft/ntx4core/ntx4core/1.3.1/ntx4core-1.3.1.jar",
             "installer": "internal.dir:mods"
           },
           "type": "mod",
