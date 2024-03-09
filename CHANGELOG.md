@@ -1,6 +1,3 @@
-# 4.3.0
+# 4.3.1
 
-- Fixed creative flight conflict
-- Added Valkyrien Skies
-- Added Create Interactive
-- SPS now uses more energy
+- Removed Valkyrien Skies due to segfault on server

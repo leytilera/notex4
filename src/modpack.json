@@ -3,7 +3,7 @@
   "type": "modpack",
   "versions": [
     {
-      "version": "4.3.0",
+      "version": "4.3.1",
       "versionid": -1,
       "mcversion": [
         "1.18.2"
@@ -2451,36 +2451,6 @@
           "file": {
             "installer": "internal.dir:mods",
             "artifact": "curse.maven:824725:4406961",
-            "repository": "curse"
-          },
-          "type": "mod",
-          "options": [
-            "server",
-            "client",
-            "required",
-            "included"
-          ]
-        },
-        {
-          "id": "mod-valkskies",
-          "file": {
-            "installer": "internal.dir:mods",
-            "artifact": "curse.maven:258371:4991985",
-            "repository": "curse"
-          },
-          "type": "mod",
-          "options": [
-            "server",
-            "client",
-            "required",
-            "included"
-          ]
-        },
-        {
-          "id": "mod-interactive",
-          "file": {
-            "installer": "internal.dir:mods",
-            "artifact": "curse.maven:925913:4982344",
             "repository": "curse"
           },
           "type": "mod",
