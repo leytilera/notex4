@@ -1,6 +1,6 @@
-# 4.2.0
+# 4.3.0
 
-- Added Hexal
-- Enabled Tempad energy usage
-- Changed Antimatter progression line
-- Fixed DeepMobLearning loot tables
+- Fixed creative flight conflict
+- Added Valkyrien Skies
+- Added Create Interactive
+- SPS now uses more energy
